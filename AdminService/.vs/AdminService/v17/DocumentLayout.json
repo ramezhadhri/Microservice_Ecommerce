@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\data\\dbcontextclassy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\data\\dbcontextclassy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\adminservice\\adminservice\\migrations\\20241108190826_migration11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB0467F-CFAE-4FAA-A456-168E0E8D1550}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\migrations\\20241108190826_migration11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241108190826_Migration11.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Migrations\\20241108190826_Migration11.cs",
+              "RelativeDocumentMoniker": "AdminService\\Migrations\\20241108190826_Migration11.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Migrations\\20241108190826_Migration11.cs",
+              "RelativeToolTip": "AdminService\\Migrations\\20241108190826_Migration11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:08:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Program.cs",
+              "RelativeDocumentMoniker": "AdminService\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Program.cs",
+              "RelativeToolTip": "AdminService\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:38:51.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AdminService\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AdminService\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:23:52.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\appsettings.json",
+              "RelativeToolTip": "AdminService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T18:18:38.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "AdminService\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Services\\IAdminService.cs",
+              "RelativeToolTip": "AdminService\\Services\\IAdminService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:43:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContextClassy.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Data\\DbContextClassy.cs",
+              "RelativeDocumentMoniker": "AdminService\\Data\\DbContextClassy.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Data\\DbContextClassy.cs",
+              "RelativeToolTip": "AdminService\\Data\\DbContextClassy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:28:49.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "AdminService\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Services\\AdminService.cs",
+              "RelativeToolTip": "AdminService\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:43:20.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\AdminService\\AdminService\\Models\\Admin.cs",
+              "RelativeToolTip": "AdminService\\Models\\Admin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:15:21.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

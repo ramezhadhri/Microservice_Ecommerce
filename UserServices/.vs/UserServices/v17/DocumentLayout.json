@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\userservices\\userservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|solutionrelative:userservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\userservices\\userservices\\migrations\\dbcontextclasssmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|solutionrelative:userservices\\migrations\\dbcontextclasssmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\userservices\\userservices\\migrations\\20241105202000_user_migration001.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|solutionrelative:userservices\\migrations\\20241105202000_user_migration001.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\userservices\\userservices\\migrations\\20241105202000_user_migration001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|solutionrelative:userservices\\migrations\\20241105202000_user_migration001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\userservices\\userservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|solutionrelative:userservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105201819_User_Migration00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserServices\\Migrations\\20241105201819_User_Migration00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105201557_User_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserServices\\Migrations\\20241105201557_User_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\userservices\\userservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BD01A4B-FA41-41F0-B757-311821130295}|UserServices\\UserServices.csproj|solutionrelative:userservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105194852_User_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserServices\\Migrations\\20241105194852_User_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextClasssModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\DbContextClasssModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UserServices\\Migrations\\DbContextClasssModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\DbContextClasssModelSnapshot.cs",
+              "RelativeToolTip": "UserServices\\Migrations\\DbContextClasssModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:07:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserServices\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Models\\User.cs",
+              "RelativeToolTip": "UserServices\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:03:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241105202000_User_Migration001.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105202000_User_Migration001.Designer.cs",
+              "RelativeDocumentMoniker": "UserServices\\Migrations\\20241105202000_User_Migration001.Designer.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105202000_User_Migration001.Designer.cs",
+              "RelativeToolTip": "UserServices\\Migrations\\20241105202000_User_Migration001.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:07:09.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241105202000_User_Migration001.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105202000_User_Migration001.cs",
+              "RelativeDocumentMoniker": "UserServices\\Migrations\\20241105202000_User_Migration001.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105202000_User_Migration001.cs",
+              "RelativeToolTip": "UserServices\\Migrations\\20241105202000_User_Migration001.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:20:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241105201557_User_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105201557_User_Migration1.cs",
+              "RelativeDocumentMoniker": "UserServices\\Migrations\\20241105201557_User_Migration1.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105201557_User_Migration1.cs",
+              "RelativeToolTip": "UserServices\\Migrations\\20241105201557_User_Migration1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:15:58.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241105194852_User_Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105194852_User_Migration.cs",
+              "RelativeDocumentMoniker": "UserServices\\Migrations\\20241105194852_User_Migration.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105194852_User_Migration.cs",
+              "RelativeToolTip": "UserServices\\Migrations\\20241105194852_User_Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:48:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Program.cs",
+              "RelativeDocumentMoniker": "UserServices\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Program.cs",
+              "RelativeToolTip": "UserServices\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:40:23.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241105201819_User_Migration00.cs",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105201819_User_Migration00.cs",
+              "RelativeDocumentMoniker": "UserServices\\Migrations\\20241105201819_User_Migration00.cs",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\Migrations\\20241105201819_User_Migration00.cs",
+              "RelativeToolTip": "UserServices\\Migrations\\20241105201819_User_Migration00.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:18:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\appsettings.json",
+              "RelativeDocumentMoniker": "UserServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\UserServices\\UserServices\\appsettings.json",
+              "RelativeToolTip": "UserServices\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T18:32:32.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

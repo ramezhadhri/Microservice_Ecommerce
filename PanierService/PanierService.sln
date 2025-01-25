@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanierService", "PanierService\PanierService.csproj", "{EAD69733-7248-4D80-8280-38C7B3D79092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD69733-7248-4D80-8280-38C7B3D79092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD69733-7248-4D80-8280-38C7B3D79092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD69733-7248-4D80-8280-38C7B3D79092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD69733-7248-4D80-8280-38C7B3D79092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36CFF24-7290-4061-AE85-96C276C42893}
+	EndGlobalSection
+EndGlobal
