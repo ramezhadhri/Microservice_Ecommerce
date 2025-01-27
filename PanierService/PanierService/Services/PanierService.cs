@@ -1,31 +1,51 @@
-﻿using PanierService.Data;
+﻿using Newtonsoft.Json;
 using PanierService.Models;
 using RestSharp;
 
 namespace PanierService.Services
 {
-    public class PanierService:IPanierService
+    public class PanierService : IPanierService
     {
-        protected readonly DbcontextClass dbcontextClass; 
+        private readonly Panier _panier;
 
-        public PanierService(DbcontextClass dbcontextClass)
+        // Use DI to inject the Panier instance
+        public PanierService(Panier panier)
         {
-            this.dbcontextClass = dbcontextClass;
+            _panier = panier;
         }
-        public void AddToCart(ProductCard productCard)
+
+        public void AddToCart()
         {
-            string apiURL = "";
+            string apiURL = "https://localhost:7088/api/Product/GetProductID?id=1";
             var client = new RestClient(apiURL);
             var request = new RestRequest(apiURL);
-            var response=client.ExecuteGet(request);
+            var response = client.ExecuteGet(request);
+
             if (response.IsSuccessful)
             {
-                Console.WriteLine ($"response {response.StatusCode} {response.StatusDescription}");
+                Console.WriteLine($"Response: {response.StatusCode} {response.StatusDescription}");
 
+                // Deserialize the response to a ProductResponse object
+                var product = JsonConvert.DeserializeObject<ProductResponse>(response.Content);
 
+                if (product != null)
+                {
+                    Console.WriteLine("Product retrieved successfully!");
+
+                    
+
+                  
+                  
+                }
+                else
+                {
+                    Console.WriteLine("Failed to deserialize the product response.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Failed to retrieve product from API.");
             }
         }
-
-       
     }
 }
