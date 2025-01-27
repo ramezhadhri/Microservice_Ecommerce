@@ -8,7 +8,10 @@ namespace PanierService.Models
     public class Panier
     {
         public List<ProductCard> ProductCards = new List<ProductCard>();
-        public double TotalPrice() => ProductCards.Sum(ProductCard => ProductCard.totalProductPrice());
+        public double TotalPrice()
+        {
+            return ProductCards.Sum(ProductCard => ProductCard.totalProductPrice());
+        }
         public int ToatalQuantity() => ProductCards.Sum(ProductCard => ProductCard.Quantity);
     }
 }

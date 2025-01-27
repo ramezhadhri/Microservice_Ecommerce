@@ -14,9 +14,9 @@ namespace PanierService.Controllers
         }
        
         [HttpPost("AddItem")]
-        public void AddItem()
+        public void AddItem(ProductCard productCard)
         {
-            panierService.AddToCart();
+            panierService.AddToCart( productCard);
         }
 
 

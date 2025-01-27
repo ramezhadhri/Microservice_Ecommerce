@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\ProductService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\productservice\\productservice\\services\\productservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\services\\productservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\productservice\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\productservice\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\productservice\\productservice\\services\\productservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\services\\productservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91D7704F-6FF5-4C90-A5FD-B80DBE4A0F3F}|ProductService\\ProductService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\productservice\\productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 30,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\ProductService\\ProductService\\Program.cs",
               "RelativeDocumentMoniker": "ProductService\\Program.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\ProductService\\ProductService\\Program.cs",
               "RelativeToolTip": "ProductService\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T13:15:55.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\ProductService\\ProductService\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
@@ -91,8 +91,7 @@
               "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAswDIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:27:07.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T19:27:07.11Z"
             },
             {
               "$type": "Document",
@@ -156,16 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductServicee.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\ProductService\\ProductService\\Services\\ProductServicee.cs",
               "RelativeDocumentMoniker": "ProductService\\Services\\ProductServicee.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\ProductService\\ProductService\\Services\\ProductServicee.cs",
               "RelativeToolTip": "ProductService\\Services\\ProductServicee.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAhAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T18:31:26.926Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",

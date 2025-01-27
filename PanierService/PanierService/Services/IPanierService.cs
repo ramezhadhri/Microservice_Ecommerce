@@ -4,6 +4,6 @@ namespace PanierService.Services
 {
     public interface IPanierService
     {
-        public void AddToCart();
+        public void AddToCart(ProductCard productCard);
     }
 }

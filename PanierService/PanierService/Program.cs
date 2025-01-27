@@ -4,6 +4,7 @@ using PanierService.Models;
 using PanierService.Services;
 
 
+
 using Newtonsoft.Json.Serialization;
 using PanierService.Controllers;
 
@@ -13,6 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<IPanierService,PanierService.Services.PanierService>();
+builder.Services.AddScoped<Panier>();
 
 
 

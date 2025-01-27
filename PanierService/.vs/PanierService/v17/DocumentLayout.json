@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\models\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\models\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\services\\panierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\services\\panierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\models\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\models\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\models\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\models\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\models\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\models\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\services\\ipanierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\services\\ipanierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|solutionrelative:panierservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAD69733-7248-4D80-8280-38C7B3D79092}|PanierService\\PanierService.csproj|c:\\users\\ramez hadhri\\desktop\\projet-microservice\\panierservice\\panierservice\\panierservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 30,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,39 +62,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Program.cs",
               "RelativeDocumentMoniker": "PanierService\\Program.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Program.cs",
               "RelativeToolTip": "PanierService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAVAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T13:14:43.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PanierController.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Controllers\\PanierController.cs",
               "RelativeDocumentMoniker": "PanierService\\Controllers\\PanierController.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Controllers\\PanierController.cs",
               "RelativeToolTip": "PanierService\\Controllers\\PanierController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T12:51:25.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\ProductResponse.cs",
               "RelativeDocumentMoniker": "PanierService\\ProductResponse.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\ProductResponse.cs",
               "RelativeToolTip": "PanierService\\ProductResponse.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwBsAAAAIAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T11:14:46.87Z",
               "EditorCaption": ""
@@ -109,8 +109,7 @@
               "RelativeToolTip": "PanierService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-26T20:09:51.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T20:09:51.868Z"
             },
             {
               "$type": "Document",
@@ -120,7 +119,7 @@
               "RelativeDocumentMoniker": "PanierService\\Services\\PanierService.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Services\\PanierService.cs",
               "RelativeToolTip": "PanierService\\Services\\PanierService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCUAAAASAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T12:17:05.401Z",
               "EditorCaption": ""
@@ -133,33 +132,33 @@
               "RelativeDocumentMoniker": "PanierService\\Services\\IPanierService.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Services\\IPanierService.cs",
               "RelativeToolTip": "PanierService\\Services\\IPanierService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T12:16:23.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductCard.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Models\\ProductCard.cs",
               "RelativeDocumentMoniker": "PanierService\\Models\\ProductCard.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Models\\ProductCard.cs",
               "RelativeToolTip": "PanierService\\Models\\ProductCard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T11:13:34.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Panier.cs",
               "DocumentMoniker": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Models\\Panier.cs",
               "RelativeDocumentMoniker": "PanierService\\Models\\Panier.cs",
               "ToolTip": "C:\\Users\\Ramez Hadhri\\Desktop\\PROJET-Microservice\\PanierService\\PanierService\\Models\\Panier.cs",
               "RelativeToolTip": "PanierService\\Models\\Panier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T22:59:20.624Z",
               "EditorCaption": ""
@@ -174,8 +173,7 @@
               "RelativeToolTip": "PanierService\\PanierService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T00:27:29.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T00:27:29.409Z"
             }
           ]
         }
